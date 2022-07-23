@@ -9,6 +9,11 @@ public class BankInfo {
 	}
 	public void deposit() {
 		System.out.println("The Employee Deposit amount is 70,000");
+		System.out.println("The Employee Deposit amount is 70,000");
+		System.out.println("The Employee Deposit amount is 70,000");
+		System.out.println("The Employee Deposit amount is 70,000");
+		System.out.println("The Employee Deposit amount is 70,000");
+		System.out.println("The Employee Deposit amount is 70,000");
 	}
 
 }
